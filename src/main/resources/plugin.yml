@@ -1,0 +1,5 @@
+name: ThorinTime
+version: '${project.version}'
+main: dev.gustavpersson.thorintime.ThorinTime
+api-version: 1.18
+description: Plugin which enables players to set their individual time
