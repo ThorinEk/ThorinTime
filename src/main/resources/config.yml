@@ -1,0 +1,7 @@
+time-set-message: '&AYour time was set to {time}'
+time-reset-message: '&AYour time was reset to match the server time'
+args-missing-message: '&CArgument missing'
+player-not-found-message: '&CNo player named {name} was found.'
+no-permission-message: '&CYou need the permission {permission} to execute the command'
+invalid-argument-message: '&CInvalid arguments'
+too-many-args-message: '&CToo many arguments given'
