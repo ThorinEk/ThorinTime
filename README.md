@@ -12,7 +12,3 @@ Minecraft plugin which makes players able to set individual time
     <td>/ptime (day/night/reset) <player></td><td>thorin.time.others</td>
   </tr>
  </table>
-| Commands  | Permissions |
-| ------------- | ------------- |
-| /ptime <day/night/reset>  | thorin.time.self  |
-| /ptime <day/night/reset> <player>  | thorin.time.others  |
